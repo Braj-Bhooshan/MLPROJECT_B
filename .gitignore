@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+env_kpro/
 
 # Spyder project settings
 .spyderproject
